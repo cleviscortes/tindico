@@ -11,6 +11,8 @@ lerna-debug.log*
 .DS_Store
 Thumbs.db
 Desktop.ini
+node_modules/
+
 
 # Editor directories and files
 .idea
